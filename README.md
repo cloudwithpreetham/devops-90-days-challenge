@@ -1,0 +1,70 @@
+<div align="center">
+
+# DevOps 90 Days Challenge
+
+### A daily log of my journey through the DevOps 90 Days Challenge by Abhishek Veeramalla
+
+[![Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIc1TjTwopNSjRJkzES2ZXk)
+[![Instructor](https://img.shields.io/badge/Instructor-Abhishek%20Veeramalla-blue)](https://www.youtube.com/@AbhishekVeeramalla)
+[![Progress](https://img.shields.io/badge/Progress-1%2F90-yellow)]()
+
+</div>
+
+---
+
+## About
+
+This repository documents my day-by-day notes and learnings from the **DevOps 90 Days Challenge**, a free YouTube series by Abhishek Veeramalla covering DevOps fundamentals, AWS, Linux, Git, Docker, Kubernetes, Terraform, CI/CD, and real-world DevOps projects.
+
+Each day's notes live in their own folder with a dedicated `README.md`.
+
+---
+
+## Repository Structure
+
+```
+devops-90-days-challenge/
+├── Day-01/
+│   └── README.md
+├── Day-02/
+│   └── README.md
+├── ...
+└── README.md   (this file)
+```
+
+---
+
+## Progress Tracker
+
+| Day | Topic                  | Status      | Notes                        |
+| --- | ---------------------- | ----------- | ---------------------------- |
+| 01  | Fundamentals of DevOps | Completed   | [Day-01](./Day-01/README.md) |
+| 02  |                        | Not Started |                              |
+| 03  |                        | Not Started |                              |
+| 04  |                        | Not Started |                              |
+| 05  |                        | Not Started |                              |
+| ... |                        |             |                              |
+| 90  |                        | Not Started |                              |
+
+_(Table updated as each day is completed.)_
+
+---
+
+## Topics Covered So Far
+
+- DevOps Fundamentals
+
+---
+
+## Resources
+
+- [Course Playlist](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIc1TjTwopNSjRJkzES2ZXk)
+- [Instructor's Channel](https://www.youtube.com/@AbhishekVeeramalla)
+
+---
+
+<div align="center">
+
+_Built day by day. Consistency over intensity._
+
+</div>
