@@ -36,15 +36,15 @@ devops-90-days-challenge/
 
 ## Progress Tracker
 
-| Day | Topic                  | Status      | Notes                        |
-| --- | ---------------------- | ----------- | ---------------------------- |
-| 01  | Fundamentals of DevOps | Completed   | [Day-01](./Day-01/README.md) |
-| 02  |                        | Not Started |                              |
-| 03  |                        | Not Started |                              |
-| 04  |                        | Not Started |                              |
-| 05  |                        | Not Started |                              |
-| ... |                        |             |                              |
-| 90  |                        | Not Started |                              |
+| Day | Topic                    | Status      | Notes                        |
+| --- | ------------------------ | ----------- | ---------------------------- |
+| 01  | Fundamentals of DevOps   | Completed   | [Day-01](./Day-01/README.md) |
+| 02  | Improve SDLC with DevOps | Completed   | [Day-02](./Day-02/README.md) |
+| 03  |                          | Not Started |                              |
+| 04  |                          | Not Started |                              |
+| 05  |                          | Not Started |                              |
+| ... |                          |             |                              |
+| 90  |                          | Not Started |                              |
 
 _(Table updated as each day is completed.)_
 
