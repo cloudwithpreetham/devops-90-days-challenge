@@ -40,7 +40,7 @@ devops-90-days-challenge/
 | --- | ------------------------ | ----------- | ---------------------------- |
 | 01  | Fundamentals of DevOps   | Completed   | [Day-01](./Day-01/README.md) |
 | 02  | Improve SDLC with DevOps | Completed   | [Day-02](./Day-02/README.md) |
-| 03  |                          | Not Started |                              |
+| 03  | Virtual Machines Part-1  | Completed   | [Day-03](./Day-03/README.md) |
 | 04  |                          | Not Started |                              |
 | 05  |                          | Not Started |                              |
 | ... |                          |             |                              |
