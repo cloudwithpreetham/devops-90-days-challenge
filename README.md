@@ -42,7 +42,7 @@ devops-90-days-challenge/
 | 02  | Improve SDLC with DevOps                     | Completed   | [Day-02](./Day-02/README.md) |
 | 03  | Virtual Machines Part-1                      | Completed   | [Day-03](./Day-03/README.md) |
 | 04  | AWS & Azure - How to Create Virtual Machines | Completed   | [Day-04](./Day-04/README.md) |
-| 05  |                                              | Not Started |                              |
+| 05  | Connecting to & Automating EC2 Instances     | Completed   | [Day-05](./Day-05/README.md) |
 | ... |                                              |             |                              |
 | 90  |                                              | Not Started |                              |
 
