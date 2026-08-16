@@ -43,6 +43,7 @@ devops-90-days-challenge/
 | 03  | Virtual Machines Part-1                      | Completed   | [Day-03](./Day-03/README.md) |
 | 04  | AWS & Azure - How to Create Virtual Machines | Completed   | [Day-04](./Day-04/README.md) |
 | 05  | Connecting to & Automating EC2 Instances     | Completed   | [Day-05](./Day-05/README.md) |
+| 06  | Introduction to Linux & Shell Scripting      | Completed   | [Day-06](./Day-06/README.md) |
 | ... |                                              |             |                              |
 | 90  |                                              | Not Started |                              |
 
