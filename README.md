@@ -6,7 +6,7 @@
 
 [![Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIc1TjTwopNSjRJkzES2ZXk)
 [![Instructor](https://img.shields.io/badge/Instructor-Abhishek%20Veeramalla-blue)](https://www.youtube.com/@AbhishekVeeramalla)
-[![Progress](https://img.shields.io/badge/Progress-7%2F90-yellow)]()
+[![Progress](https://img.shields.io/badge/Progress-8%2F90-yellow)]()
 
 </div>
 
@@ -45,6 +45,7 @@ devops-90-days-challenge/
 | 05  | Connecting to & Automating EC2 Instances     | Completed   | [Day-05](./Day-05/README.md) |
 | 06  | Introduction to Linux & Shell Scripting      | Completed   | [Day-06](./Day-06/README.md) |
 | 07  | AWS Resource Tracker with Shell Scripting    | Completed   | [Day-07](./Day-07/README.md) |
+| 08  | GitHub API Integration with Shell Scripting  | Completed   | [Day-08](./Day-08/README.md) |
 | ... |                                              |             |                              |
 | 90  |                                              | Not Started |                              |
 
