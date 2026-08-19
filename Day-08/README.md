@@ -98,7 +98,7 @@ This maps directly to a real-world scenario — e.g., after an employee resigns,
 - [x] Understood API vs. UI and reading API documentation
 - [x] Understood PAT-based GitHub authentication
 - [x] Documented Day 08 notes
-- [ ] Move on to Day 09
+- [x] Move on to Day 09
 
 ---
 
