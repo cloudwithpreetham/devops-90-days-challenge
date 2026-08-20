@@ -6,7 +6,7 @@
 
 [![Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIc1TjTwopNSjRJkzES2ZXk)
 [![Instructor](https://img.shields.io/badge/Instructor-Abhishek%20Veeramalla-blue)](https://www.youtube.com/@AbhishekVeeramalla)
-[![Progress](https://img.shields.io/badge/Progress-10%2F90-yellow)]()
+[![Progress](https://img.shields.io/badge/Progress-11%2F90-yellow)]()
 
 </div>
 
@@ -46,6 +46,8 @@ devops-90-days-challenge/
 │   └── README.md
 ├── Day-10
 │   └── README.md
+├── Day-11
+│   └── README.md
 ├── Extras
 │   ├── README.md
 │   ├── absolute-prerequisite-for-devops
@@ -70,6 +72,7 @@ devops-90-days-challenge/
 | 08  | GitHub API Integration with Shell Scripting  | Completed   | [Day-08](./Day-08/README.md) |
 | 09  | Introduction to Git & GitHub                 | Completed   | [Day-09](./Day-09/README.md) |
 | 10  | Git Branching Strategies                     | Completed   | [Day-10](./Day-10/README.md) |
+| 11  | Git Commands & Real-World Workflows          | Completed   | [Day-11](./Day-11/README.md) |
 | ... |                                              |             |                              |
 | 90  |                                              | Not Started |                              |
 
@@ -95,7 +98,7 @@ Supplementary videos and deep-dives that support the main sequence but aren't pa
 - Linux & Shell Scripting
 - AWS CLI, jq, Cron
 - GitHub API Integration
-- Git & GitHub (version control, branching strategies)
+- Git & GitHub (version control, branching strategies, workflows: clone/fork, merge/rebase/cherry-pick)
 
 ---
 
