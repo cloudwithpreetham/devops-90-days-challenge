@@ -6,7 +6,7 @@
 
 [![Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIc1TjTwopNSjRJkzES2ZXk)
 [![Instructor](https://img.shields.io/badge/Instructor-Abhishek%20Veeramalla-blue)](https://www.youtube.com/@AbhishekVeeramalla)
-[![Progress](https://img.shields.io/badge/Progress-9%2F90-yellow)]()
+[![Progress](https://img.shields.io/badge/Progress-10%2F90-yellow)]()
 
 </div>
 
@@ -24,11 +24,33 @@ Each day's notes live in their own folder with a dedicated `README.md`.
 
 ```
 devops-90-days-challenge/
-├── Day-01/
+├── Day-01
 │   └── README.md
-├── Day-02/
+├── Day-02
 │   └── README.md
-├── ...
+├── Day-03
+│   └── README.md
+├── Day-04
+│   └── README.md
+├── Day-05
+│   └── README.md
+├── Day-06
+│   └── README.md
+├── Day-07
+│   ├── README.md
+│   └── aws-shell-scripting
+├── Day-08
+│   ├── README.md
+│   └── github-api
+├── Day-09
+│   └── README.md
+├── Day-10
+│   └── README.md
+├── Extras
+│   ├── README.md
+│   ├── absolute-prerequisite-for-devops
+│   └── shell-scripting-zero-to-hero
+├── LICENSE
 └── README.md   (this file)
 ```
 
@@ -47,6 +69,7 @@ devops-90-days-challenge/
 | 07  | AWS Resource Tracker with Shell Scripting    | Completed   | [Day-07](./Day-07/README.md) |
 | 08  | GitHub API Integration with Shell Scripting  | Completed   | [Day-08](./Day-08/README.md) |
 | 09  | Introduction to Git & GitHub                 | Completed   | [Day-09](./Day-09/README.md) |
+| 10  | Git Branching Strategies                     | Completed   | [Day-10](./Day-10/README.md) |
 | ... |                                              |             |                              |
 | 90  |                                              | Not Started |                              |
 
@@ -54,9 +77,25 @@ _(Table updated as each day is completed.)_
 
 ---
 
+## Extras
+
+Supplementary videos and deep-dives that support the main sequence but aren't part of the numbered Day-01 → Day-90 track. Full index: [Extras/README.md](./Extras/README.md)
+
+- [Absolute Prerequisite for Learning DevOps](./Extras/absolute-prerequisite-for-devops/README.md)
+- [Shell Scripting for DevOps — Zero to Hero (Part-1)](./Extras/shell-scripting-zero-to-hero/Part-1/README.md)
+- [Shell Scripting for DevOps — Zero to Hero (Part-2)](./Extras/shell-scripting-zero-to-hero/Part-2/README.md)
+
+---
+
 ## Topics Covered So Far
 
-- DevOps Fundamentals
+- DevOps Fundamentals & SDLC
+- Virtual Machines & Hypervisors
+- AWS EC2 (creation, connection, automation)
+- Linux & Shell Scripting
+- AWS CLI, jq, Cron
+- GitHub API Integration
+- Git & GitHub (version control, branching strategies)
 
 ---
 
