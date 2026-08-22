@@ -6,7 +6,7 @@
 
 [![Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIc1TjTwopNSjRJkzES2ZXk)
 [![Instructor](https://img.shields.io/badge/Instructor-Abhishek%20Veeramalla-blue)](https://www.youtube.com/@AbhishekVeeramalla)
-[![Progress](https://img.shields.io/badge/Progress-11%2F90-yellow)]()
+[![Progress](https://img.shields.io/badge/Progress-12%2F90-yellow)]()
 
 </div>
 
@@ -48,6 +48,9 @@ devops-90-days-challenge/
 │   └── README.md
 ├── Day-11
 │   └── README.md
+├── Day-12
+│   ├── AWS-Session
+│   └── README.md
 ├── Extras
 │   ├── README.md
 │   ├── absolute-prerequisite-for-devops
@@ -73,6 +76,7 @@ devops-90-days-challenge/
 | 09  | Introduction to Git & GitHub                 | Completed   | [Day-09](./Day-09/README.md) |
 | 10  | Git Branching Strategies                     | Completed   | [Day-10](./Day-10/README.md) |
 | 11  | Git Commands & Real-World Workflows          | Completed   | [Day-11](./Day-11/README.md) |
+| 12  | Deploying a NodeJS App on AWS EC2 (Guest)    | Completed   | [Day-12](./Day-12/README.md) |
 | ... |                                              |             |                              |
 | 90  |                                              | Not Started |                              |
 
@@ -99,6 +103,7 @@ Supplementary videos and deep-dives that support the main sequence but aren't pa
 - AWS CLI, jq, Cron
 - GitHub API Integration
 - Git & GitHub (version control, branching strategies, workflows: clone/fork, merge/rebase/cherry-pick)
+- End-to-end AWS deployment: IAM, EC2, SSH, security groups, exposing apps to the internet
 
 ---
 
