@@ -6,7 +6,7 @@
 
 [![Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIc1TjTwopNSjRJkzES2ZXk)
 [![Instructor](https://img.shields.io/badge/Instructor-Abhishek%20Veeramalla-blue)](https://www.youtube.com/@AbhishekVeeramalla)
-[![Progress](https://img.shields.io/badge/Progress-14%2F90-yellow)]()
+[![Progress](https://img.shields.io/badge/Progress-15%2F90-yellow)]()
 
 </div>
 
@@ -55,6 +55,8 @@ devops-90-days-challenge/
 │   └── README.md
 ├── Day-14
 │   └── README.md
+├── Day-15
+│   └── README.md
 ├── Extras
 │   ├── README.md
 │   ├── absolute-prerequisite-for-devops
@@ -83,6 +85,7 @@ devops-90-days-challenge/
 | 12  | Deploying a NodeJS App on AWS EC2 (Guest)                  | Completed          | [Day-12](./Day-12/README.md) |
 | 13  | AWS Services Every DevOps Engineer Should Know             | Completed          | [Day-13](./Day-13/README.md) |
 | 14  | Configuration Management With Ansible \| Puppet vs Ansible | Completed (theory) | [Day-14](./Day-14/README.md) |
+| 15  | Ansible Zero to Hero (Hands-On)                            | Completed          | [Day-15](./Day-15/README.md) |
 | ... |                                                            |                    |                              |
 | 90  |                                                            | Not Started        |                              |
 
@@ -112,6 +115,7 @@ Supplementary videos and deep-dives that support the main sequence but aren't pa
 - End-to-end AWS deployment: IAM, EC2, SSH, security groups, exposing apps to the internet
 - Core AWS services for DevOps: VPC, EBS, S3, CloudWatch, Lambda, CI/CD (CodePipeline/Build/Deploy), Config, KMS, CloudTrail, EKS/ECS, ELK
 - Configuration Management: Puppet vs Ansible, push vs pull models, agentless architecture, dynamic inventory, Ansible Galaxy
+- Hands-on Ansible: installation, passwordless SSH auth, ad-hoc commands, inventory groups, writing playbooks, roles (`ansible-galaxy role init`)
 
 ---
 
